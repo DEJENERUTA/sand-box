@@ -1,0 +1,33 @@
+{
+	"briansostebutik": {
+		"vare": [
+			{
+				"varenummer": 543,
+				"varenavn": "ostehaps",
+				"pris": {
+					"pris": 50,
+					"valuta": "dkk"
+				},
+
+				"antal": 5678,
+				"beskrivelse": "Søde og sure blocher",
+				"lagerbeholding": 2345,
+				"billede": ["lillebror.jpeg", "lillebrorembal"],
+				"tilbud": true
+				
+			},
+      {
+        "varenummer": 543,
+        "varenavn": "gammelknys",
+        "pris": {
+          "pris": 50,
+          "valuta": "dkk"
+        },
+        "antal": 25,
+        "beskrivelse": "lækker bla bla",
+        "lagerbeholding": 400,
+        "billede": ["gammelknys.jpeg", "vestfyn.jpeg"]
+      }
+		]
+	}
+}
