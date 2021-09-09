@@ -1,0 +1,24 @@
+{
+   "Dejene": {
+    "age": 33,
+    "køn": "mand",
+    "højde":[
+    {
+        "højde": 166,
+        "måleenhed": "cm"
+    },
+    {
+        "højde": 1660,
+        "måleenhed": "mm"
+    }
+],
+    "ojønefarve": "brun",
+    "fornavn": "Dejene",
+    "mellemnavne": "Daba",
+    "eftenavn": "Jebessa"
+
+
+},
+"kontakt": "dejenedaba269@gmail.com",
+"telefon": 42681558
+}
